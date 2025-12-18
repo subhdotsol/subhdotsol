@@ -1,6 +1,5 @@
-# My Proof of Work
 
-## WHOAMI
+## 🌘 WHOAMI
 
 I like building things in **Rust**, mostly tools and experiments that solve problems I face myself. I believe the best way to learn is by doing, breaking things, and rebuilding them better. When I'm not coding, I enjoy learning new skills and playing the guitar.
 

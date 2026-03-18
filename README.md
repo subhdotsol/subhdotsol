@@ -9,7 +9,7 @@ I like building things in **Rust**, mostly tools and experiments that solve prob
 
 **X** - https://x.com/Subhdotsol  
 **Github** - https://github.com/subhdotsol  
-**Portfolio** - https://subhworks.vercel.app/  
+**Portfolio** - https://subhworks.xyz
 **Telegram** - @subhdotsol
 
 ---

@@ -73,6 +73,8 @@ Site: https://zkkit.vercel.app/
 
 **AMM-Sandbox** - https://github.com/subhdotsol/AMM-Sandbox 
 
+**Quasar-SPL-Token** - https://github.com/subhdotsol/quasar-spl-token
+
 **Vault** - https://github.com/subhdotsol/Vault
 
 **Bonding-Curve** - https://github.com/subhdotsol/Bonding-curve
